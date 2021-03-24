@@ -1,16 +1,25 @@
-### Hi there 👋
+# William Zabot
 
-<!--
-**williamzabot/williamzabot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Android developer** with **Kotlin** and **Java**. Student of Software Engineering at PUCRS.
+I have an app on the PlayStore: "**Avise-me**".
 
-Here are some ideas to get you started:
+<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Work
+I currently work at the **Instituto de Pesquisas Eldorado**.
+I know architectures like MVC, MVVM, Clean Architecture  
+Jetpack - ViewModel, LiveData, Navigation, Navigation Safe Args, Paging, Data Binding 
+APIs REST, Retrofit, OkHttpClient, Coroutines, RxJava  
+Room, Realm, WorkManager, Notifications, Firebase
+Dependency injection with Dagger Hilt, Koin
+Instrumented tests with JUnit, Espresso  
+
+# Contact
+Contact:
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/william-zabot-48580b170/)
+
+Download the "Avise-me" by clicking here
+[<img alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>](https://play.google.com/store/apps/details?id=com.williamzabot.notas&hl=pt_BR)
+
