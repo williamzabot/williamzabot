@@ -8,10 +8,10 @@ I have an app on the PlayStore: "**Avise-me**".
 # Work
 I currently work at the **Instituto de Pesquisas Eldorado**.
 I know architectures like MVC, MVVM, Clean Architecture,
-Jetpack - ViewModel, LiveData, Navigation, Room, Navigation Safe Args, Paging, Data Binding ,
+Jetpack - ViewModel, LiveData, Navigation, Room, Navigation Safe Args, Paging, Data Binding,
 WorkManager, Notifications, Firebase,
-Dependency injection with Dagger Hilt, Koin,
-Instrumented tests with JUnit, Espresso  
+dependency injection with Dagger Hilt, Koin,
+instrumented tests with JUnit, Espresso. 
 
 # Contact
 Contact:
